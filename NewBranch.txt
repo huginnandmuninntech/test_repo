@@ -1,2 +1,4 @@
 This is a demonstration of a new file committed to the NewDeployment branch
 I'm updating per instructions
+
+This will be committed via command line.
